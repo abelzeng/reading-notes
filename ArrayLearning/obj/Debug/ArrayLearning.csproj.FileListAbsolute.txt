@@ -1,0 +1,6 @@
+C:\Users\zengjian\Documents\source code\git\ReadingNotes\ArrayLearning\obj\Debug\ArrayLearning.csprojAssemblyReference.cache
+C:\Users\zengjian\Documents\source code\git\ReadingNotes\ArrayLearning\obj\Debug\ArrayLearning.csproj.CoreCompileInputs.cache
+C:\Users\zengjian\Documents\source code\git\ReadingNotes\ArrayLearning\bin\Debug\ArrayLearning.dll
+C:\Users\zengjian\Documents\source code\git\ReadingNotes\ArrayLearning\bin\Debug\ArrayLearning.pdb
+C:\Users\zengjian\Documents\source code\git\ReadingNotes\ArrayLearning\obj\Debug\ArrayLearning.dll
+C:\Users\zengjian\Documents\source code\git\ReadingNotes\ArrayLearning\obj\Debug\ArrayLearning.pdb
